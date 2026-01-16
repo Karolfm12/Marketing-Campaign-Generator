@@ -1,7 +1,8 @@
 streamlit
-pandas
-pycaret.clustering
-plotly.express
+pandas<2.0.0
+pycaret
+plotly
 numpy
 python-dotenv
 openai
+scikit-learn==1.5.2
