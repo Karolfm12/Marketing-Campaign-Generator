@@ -2,7 +2,7 @@ streamlit
 pandas<2.0.0
 pycaret
 plotly
-numpy
+numpy<2.0.0
 python-dotenv
 openai
-scikit-learn==1.5.2
+scikit-learn==1.2.2
