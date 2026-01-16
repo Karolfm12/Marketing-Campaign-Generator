@@ -1,0 +1,7 @@
+streamlit
+pandas
+pycaret.clustering
+plotly.express
+numpy
+python-dotenv
+openai
